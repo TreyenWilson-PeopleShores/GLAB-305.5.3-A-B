@@ -1,0 +1,5 @@
+com\perscholas\model\Cohort.class
+com\perscholas\model\Teacher.class
+com\perscholas\model\Department.class
+com\perscholas\model\Address.class
+com\perscholas\model\App.class
